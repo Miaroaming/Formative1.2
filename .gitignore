@@ -1,0 +1,4 @@
+# credentials.env - ignores that specific file
+
+# ignores all of a file extension
+*.env
